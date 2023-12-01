@@ -6,31 +6,31 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'initialisation d'un projet ❌ / ✔️
-- travailler avec des branches ❌ / ✔️
-- faire une PR ❌ / ✔️
-- utiliser git rebase pour faire des commits propres ❌ / ✔️
-- utiliser les gitHub actions ❌ / ✔️
+- l'initialisation d'un projet ✔️
+- travailler avec des branches ✔️
+- faire une PR ✔️
+- utiliser git rebase pour faire des commits propres ✔️
+- utiliser les gitHub actions ✔️
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
 [lien github](...)
 
-Description :
+Description : Tous les projets sur github ?
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
-Description :
+Description : on utilise gitlab, mais c'est un peu la même chose.
 
 ## 🌐 J'utilise des ressources
 

@@ -1,37 +1,37 @@
 # GraphQL
 
 > ❌ A travailler
-
 > ✔️ Auto validation par l'étudiant
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la différence entre REST et GraphQL ❌ / ✔️
-- les besoins auxquels répond GraphQL ❌ / ✔️
-- la définition d'un schéma
-- Query ❌ / ✔️
-- Mutation ❌ / ✔️
-- Subscription ❌ / ✔️
+- la différence entre REST et GraphQL ✔️
+- les besoins auxquels répond GraphQL ✔️
+- la définition d'un schéma ✔️
+- Query ✔️
+- Mutation ✔️
+- Subscription ✔️
 
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github](https://github.com/ad-bak/graphql-with-react)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
 Description :
+Je l'utilise parfois.
 
 ## 🌐 J'utilise des ressources
 
@@ -48,7 +48,7 @@ Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
+- Je dois pratiquer davantage ❌ / ✔️
 - action 2 ❌ / ✔️
 - ...
 

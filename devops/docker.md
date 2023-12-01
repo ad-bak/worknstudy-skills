@@ -6,30 +6,29 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la création d'une image docker ❌ / ✔️
-- l'éxécution d'un container ❌ / ✔️
-- l'orchestration de containers avec docker-compose ❌ / ✔️
-
+- la création d'une image docker ✔️
+- l'éxécution d'un container ✔️
+- l'orchestration de containers avec docker-compose ✔️
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github](https://github.com/ad-bak/ci-cd)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
-Description :
+Description : On utilise Docker dans mon job actuel, mais je ne suis pas concerné par la partie Docker.
 
 ## 🌐 J'utilise des ressources
 

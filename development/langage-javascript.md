@@ -6,10 +6,10 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage ✔️
+- les normes `ecmascript` ✔️
+- l'utilisation de l'`asynchrone` ✔️
+- les spécifités du mot-clef `this` ✔️
 
 ## 💻 Je code en Javascript
 
@@ -19,21 +19,22 @@
 (e) => mc2;
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github](https://github.com/ad-bak?tab=repositories)
 
 Description :
+Presque tout les projets que j'ai fait utilise du Javascript.
 
-### J'ai utilisé ce langage en production ❌ / ✔️
+### J'ai utilisé ce langage en production ❌
 
 [lien du projet](...)
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en environement professionnel ✔️
 
-Description :
+Description : Je travaille avec du Javascript dans mon job actuel.
 
 ## 🌐 J'utilise des ressources
 
@@ -60,4 +61,3 @@ Résolution :
 
 - J'ai ecrit un [tutoriel](...) ❌ / ✔️
 - J'ai fait une [présentation](...) ❌ / ✔️
-
